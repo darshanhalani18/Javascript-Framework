@@ -27,7 +27,7 @@ This will create a package.json file with default settings.
 
 - ### Step 3: Install a Package (e.g., chalk).
 ```bash
-  npm install chalk
+  npm install chalk@4
 ```
 This adds chalk to your project and
 It also creates a node_modules folder and updates package.json.
@@ -46,6 +46,7 @@ console.log(chalk.blue.bold("This is bold blue text!"));
 node index.js
 ```
 You should see colorful output in the terminal!
+<<<<<<< HEAD:NodeJS/Introduction of NPM and Use of NPM.md
 
 ## Uninstalling, and Updating Modules using NPM
 
@@ -73,3 +74,5 @@ npm update
 ```
 
 
+=======
+>>>>>>> f497663dd43e0f256a2f290cdccb5f15e304b48f:NodeJS/Installation of NPM and Use of NPM.md
