@@ -54,7 +54,6 @@ node index.js
 ```
 
 You should see colorful output in the terminal!
-<<<<<<< HEAD:NodeJS/Introduction of NPM and Use of NPM.md
 
 ## Uninstalling, and Updating Modules using NPM
 
