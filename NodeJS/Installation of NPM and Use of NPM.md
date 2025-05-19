@@ -27,7 +27,7 @@ This will create a package.json file with default settings.
 
 - ### Step 3: Install a Package (e.g., chalk).
 ```bash
-  npm install chalk
+  npm install chalk@4
 ```
 This adds chalk to your project and
 It also creates a node_modules folder and updates package.json.
