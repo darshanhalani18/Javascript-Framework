@@ -13,7 +13,7 @@ You can download the MySQL installer from the official website:
 ### Step-1 : 
 **Choose and download the MySQL Community Installer**
 - Visit the official MySQL downloads page
-- Select the MySQL Installer for Windows (Community Edition)
+- Select the MySQL Installer for Windows (Community Edition - mysql-installer-community-8.0.42.0.ms)
 
 ### Step-2 : 
 **Start the download and launch the installer**
