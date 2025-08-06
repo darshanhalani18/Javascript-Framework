@@ -1,7 +1,4 @@
 # ReactJS
-
-These are beginner-friendly notes and concepts to help you understand and work with React effectively.
-
 ---
 
 ## ✪ Why React?
@@ -119,19 +116,4 @@ npm create vite@latest
 - It compares the virtual DOM with the real DOM using **diffing** and updates only what’s changed.
 
 **This improves performance drastically.**
-
-### Visual Representation
-
----
-
-## 🧬 JSX - JavaScript + XML
-
-JSX allows writing HTML-like syntax inside JavaScript:
-
-```jsx
-const element = <h1>Hello, React!</h1>;
-```
-
-- Easier to write and understand the structure of UI
-
 ---
