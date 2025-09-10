@@ -1,0 +1,54 @@
+.list-container {
+  padding: 20px;
+}
+
+.category-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.category-table th,
+.category-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.category-table th {
+  background-color: #f4f4f4;
+}
+
+.category-table tr:hover {
+  background-color: #f9f9f9;
+}
+
+button {
+  margin: 0 5px;
+  padding: 6px 10px;
+  border: none;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Edit button - green */
+.edit-btn {
+  background-color: #28a745;
+}
+
+.edit-btn:hover {
+  background-color: #218838;
+}
+
+/* Delete button - red */
+.delete-btn {
+  background-color: #dc3545;
+}
+
+.delete-btn:hover {
+  background-color: #c82333;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
